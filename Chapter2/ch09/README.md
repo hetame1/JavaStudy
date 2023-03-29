@@ -15,4 +15,4 @@
 
 - 학생(Student)과 과목(Subject)에 대한 클래스를 분리하여 사용하고 Subject 클래스를 활용하여 수강한 과목들의 변수의 타입으로 선언
 
-<img width="80%" src="https://github.com/hetame1/JavaStudy/issues/1#issue-1645693037" />
+<img src="https://github.com/hetame1/JavaStudy/issues/1#issue-1645693037" />
