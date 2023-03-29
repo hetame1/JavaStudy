@@ -15,4 +15,4 @@
 
 - 학생(Student)과 과목(Subject)에 대한 클래스를 분리하여 사용하고 Subject 클래스를 활용하여 수강한 과목들의 변수의 타입으로 선언
 
-<img width="80%" src="![student](https://user-images.githubusercontent.com/121005861/228532897-681313c2-3622-4d3b-a13c-f9f8c6300418.png)" />
+<img width="80%" src="(https://user-images.githubusercontent.com/121005861/228532897-681313c2-3622-4d3b-a13c-f9f8c6300418.png" />
