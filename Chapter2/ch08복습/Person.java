@@ -1,21 +1,21 @@
 package ch08복습;
 
 public class Person {
-  public int stature;
-  public int weight;
-  public int age;
-  public String gender;
-  public String Name;
+  String name;
+  String sex;
+  int age;
+  int stature;
+  int weight;
 
-  public Person(int stature, int weight, int age, String gender, String Name) {
-    this.Name = Name;
-    this.age = age;
-    this.gender = gender;
-    this.stature = stature;
+  Person(int stature, int weight, int age, String sex, String name) {
     this.weight = weight;
+    this.stature = stature;
+    this.age = age;
+    this.sex = sex;
+    this.name = name;
   }
 
-  public String personInfo() {
-    return "키가 " + stature + "이고 몸무게가 " + weight + "킬로인 " + gender + "이 있습니다. 이름은 " + Name + "이고 나이는 " + age + "세 입니다";
+  public void personInfo() {
+    System.out.println(String.format("키가 %d 이고 몸무게가 %d 킬로인 %s이 있습니다. 이름은 %s 이고 나이는 %d세입니다.", stature, weight, sex, name, age));
   }
 }
