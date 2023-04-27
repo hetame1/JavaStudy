@@ -2,7 +2,7 @@
 
 ### 상수
 
-- 모든 변수는 상수로 변환 됨 pulbic static final
+- 모든 변수는 상수로 변환 됨 public static final
 
 ### 추상 메서드
 

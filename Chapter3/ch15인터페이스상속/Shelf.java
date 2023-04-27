@@ -6,7 +6,7 @@ public class Shelf {
   protected ArrayList<String> shelf;
 
   public Shelf() {
-    shelf = new ArrayList();
+    shelf =  new ArrayList<String>();
   }
 
   public ArrayList<String> getShelf() {
