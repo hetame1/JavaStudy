@@ -13,6 +13,8 @@ public class CustomerTest {
     Customer customerP = new GoldCustomer("Percy", 10010);
     Customer customerK = new VIPCustomer("Kim", 10010);
 
+    VIPCustomer customerV = new VIPCustomer("Vip", 10010);
+
     customerList.add(customerT);
     customerList.add(customerJ);
     customerList.add(customerE);

@@ -17,6 +17,6 @@ public class CustomerTest {
 
     Customer vc = new VIPCustomer("test", 1030);
     System.out.println(vc.calcPrice(1000));
-
+  
   }
 }
