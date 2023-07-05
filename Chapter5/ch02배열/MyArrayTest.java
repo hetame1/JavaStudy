@@ -1,4 +1,4 @@
-package Chapter5.ch03배열;
+package Chapter5.ch02배열;
 
 public class MyArrayTest {
 

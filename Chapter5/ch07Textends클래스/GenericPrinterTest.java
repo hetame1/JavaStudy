@@ -1,4 +1,4 @@
-package Chapter5.ch06제네릭프로그래밍;
+package Chapter5.ch07Textends클래스;
 
 public class GenericPrinterTest {
   public static void main(String[] args) {
